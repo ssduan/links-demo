@@ -2,7 +2,7 @@
 
 body { padding: 2em; }
 
-a { color: blue; }
+a { color: royalblue; }
 em { font-style: italic; }
 strong { font-weight: bold; }
 
@@ -12,4 +12,8 @@ ul,
 figure {
 	display: grid;
 	gap: 1em;
+}
+
+.image-block .title {
+	color: blueviolet;
 }
